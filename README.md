@@ -1,4 +1,4 @@
-# Python Data Extraction With CSV Library
+# Data Extraction With CSV Library
 
 ## Description
 
