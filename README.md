@@ -1,9 +1,8 @@
 # Python Data Extraction With CSV Library
 
-<h2> Description: </h2> 
-A dedicated functional one line program code written in Python that extracts a specific data-records from a data and generates a new file
+## Description
 
-<br>
+A dedicated functional one line program code written in Python that extracts a specific data-records from a data and generates a new file
 
 This project aims to the reduce streneous manual time spent on extracting specific records from a data file **(in csv format)**. The program code does the following:
 
